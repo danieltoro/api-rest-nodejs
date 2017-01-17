@@ -1,0 +1,22 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "PRoyecto de API RESTFul con NodeJS y Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieltoro/api-rest-nodejs.git"
+  },
+  "author": "Daniel Toro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danieltoro/api-rest-nodejs/issues"
+  },
+  "homepage": "https://github.com/danieltoro/api-rest-nodejs#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
